@@ -1,9 +1,12 @@
 # Tambov Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 17 versions, from 2026-01-30 (latest in force: 2026-09-03) · <http://publication.pravo.gov.ru/documents/block/region68>
+Законы 2026 · 18 versions, from 2026-01-30 (latest in force: 2026-11-06) · <http://publication.pravo.gov.ru/documents/block/region68>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Закон № 1-З | [1-z.md](1-z.md) | 1 | 2026-11-06 |
+| Закон № 2-З | [2-z.md](2-z.md) | 1 | 2026-11-06 |
+| Закон № 3-З | [3-z.md](3-z.md) | 1 | 2026-11-06 |
 | Закон № 776-З | [776-z.md](776-z.md) | 0 |  |
 | Закон № 777-З | [777-z.md](777-z.md) | 1 | 2026-02-06 |
 | Закон № 778-З | [778-z.md](778-z.md) | 1 | 2026-02-06 |
