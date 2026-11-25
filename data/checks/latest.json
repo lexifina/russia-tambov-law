@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:56:55Z",
+ "generated": "2026-11-25T07:02:56Z",
  "latest": {
   "pravo-tambov|russia/tambov/acts": {
    "attempt": 1,
@@ -13,33 +13,25 @@
    },
    "census": {
     "checked": 1813,
-    "current": 1810,
+    "current": 1813,
     "gone": 0,
-    "held": 1810,
-    "newest_in_repo": "2026-09-03",
-    "pending": 3,
-    "repo": 1810,
+    "held": 1813,
+    "newest_in_repo": "2026-11-06",
+    "pending": 0,
+    "repo": 1813,
     "source_in_scope": 1813
    },
-   "check_id": "ru-pravo-tambov-20261124T145506Z",
-   "commits": {
-    "count": 2,
-    "from": "9706b2c510f60482027824c831ac7a3ecc6bc2dd",
-    "to": "0c47e9361a806b1721e8fc2b97b60ffe8d182b8f"
-   },
+   "check_id": "ru-pravo-tambov-20261125T063812Z",
+   "commits": null,
    "corpus": "russia/tambov/acts",
    "error": null,
-   "finished": "2026-11-24T14:56:54Z",
+   "finished": "2026-11-25T06:39:22Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region68: 1813 law-type documents listed (every page read); 1810 held here; 3 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region68: 1813 law-type documents listed (every page read); 1813 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "6800202611060001",
-     "6800202611060002",
-     "6800202611060003"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -47,30 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "6800202611060001",
-     "6800202611060002",
-     "6800202611060003"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1813 law-type documents in block region68; newest published 2026-11-06",
    "source": "pravo-tambov",
-   "started": "2026-11-24T14:55:06Z",
+   "started": "2026-11-25T06:38:12Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
