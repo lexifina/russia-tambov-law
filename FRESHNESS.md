@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Tambov Oblast: Official Internet Portal of Legal Information (region68) · `russia/tambov/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 06:39 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 06:02 UTC**.
 - Acts held here: 1 813; current at the source: 1 813; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
