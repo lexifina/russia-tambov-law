@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:12:05Z",
+ "generated": "2026-11-28T06:26:22Z",
  "latest": {
   "pravo-tambov|russia/tambov/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1813,
     "source_in_scope": 1813
    },
-   "check_id": "ru-pravo-tambov-20261127T055538Z",
+   "check_id": "ru-pravo-tambov-20261128T060630Z",
    "commits": null,
    "corpus": "russia/tambov/acts",
    "error": null,
-   "finished": "2026-11-27T05:56:22Z",
+   "finished": "2026-11-28T06:07:40Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region68: 1813 law-type documents listed (every page read); 1813 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1813 law-type documents in block region68; newest published 2026-11-06",
    "source": "pravo-tambov",
-   "started": "2026-11-27T05:55:38Z",
+   "started": "2026-11-28T06:06:30Z",
    "unexplained": 0,
    "update": {
     "parts": []
